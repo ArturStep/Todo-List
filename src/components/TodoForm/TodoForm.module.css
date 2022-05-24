@@ -1,0 +1,18 @@
+.todoForm {
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    font-family: Georgia, serif;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.error {
+    color: red;
+    display: flex;
+    justify-content: left;
+    margin-top: 6px;
+    margin-left: 4px;
+}
